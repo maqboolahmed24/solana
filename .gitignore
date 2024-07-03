@@ -1,5 +1,0 @@
-# Ignore specific large files
-solana/Lib/site-packages/clang/native/libclang.dll
-solana/Lib/site-packages/llvmlite/binding/llvmlite.dll
-solana/Lib/site-packages/kaleido/executable/bin/kaleido.exe
-solana/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
